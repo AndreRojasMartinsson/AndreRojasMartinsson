@@ -1,1 +1,1 @@
-![RootEntry's GitHub stats](https://github-readme-stats-three-eta-74.vercel.app/api?username=AndreRojasMartinsson&theme=dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) ![RootEntry's Language stats](https://github-readme-stats-three-eta-74.vercel.app/api/top-langs/?username=AndreRojasMartinsson&theme=dark)
+
